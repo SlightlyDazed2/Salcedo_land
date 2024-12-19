@@ -30,8 +30,10 @@
       "minecraft:dark_forest": "2024-12-18 02:28:25 +0000",
       "minecraft:river": "2024-12-18 02:10:07 +0000",
       "minecraft:stony_shore": "2024-12-16 20:19:46 +0000",
+      "minecraft:snowy_plains": "2024-12-19 18:04:13 +0000",
       "minecraft:snowy_taiga": "2024-12-19 16:37:31 +0000",
       "minecraft:grove": "2024-12-16 22:28:56 +0000",
+      "minecraft:jagged_peaks": "2024-12-19 18:00:02 +0000",
       "minecraft:cold_ocean": "2024-12-16 22:21:32 +0000",
       "minecraft:forest": "2024-12-16 20:10:08 +0000",
       "minecraft:deep_cold_ocean": "2024-12-17 15:56:05 +0000",
@@ -3409,7 +3411,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
+      "cold_deciduous_forest": "2024-12-19 18:00:24 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
+      "frozen_tundra": "2024-12-19 18:03:14 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
       "maple_forest": "2024-12-19 16:24:18 +0000",
       "boreal_forest": "2024-12-19 16:24:19 +0000",
@@ -3417,6 +3421,8 @@
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
       "cold_river": "2024-12-19 17:38:27 +0000",
+      "spires": "2024-12-19 17:59:09 +0000",
+      "icy_heights": "2024-12-19 18:01:17 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -3424,7 +3430,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
+      "cold_deciduous_forest": "2024-12-19 18:00:24 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
+      "frozen_tundra": "2024-12-19 18:03:14 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
       "maple_forest": "2024-12-19 16:24:18 +0000",
       "boreal_forest": "2024-12-19 16:24:19 +0000",
@@ -3432,6 +3440,8 @@
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
       "cold_river": "2024-12-19 17:38:27 +0000",
+      "spires": "2024-12-19 17:59:09 +0000",
+      "icy_heights": "2024-12-19 18:01:17 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -4015,7 +4025,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "larch_log": "2024-12-19 17:27:23 +0000",
-      "pine_log": "2024-12-19 00:26:05 +0000"
+      "pine_log": "2024-12-19 00:26:05 +0000",
+      "maple_log": "2024-12-19 18:00:45 +0000"
     },
     "done": false
   },
@@ -4193,6 +4204,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-19 17:57:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2024-12-19 17:04:28 +0000"
@@ -4235,6 +4252,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-12-19 18:00:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 18:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-19 17:57:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_trapdoor": {
     "criteria": {
       "has_larch_planks": "2024-12-19 17:27:53 +0000"
@@ -4271,6 +4306,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-19 18:08:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2024-12-19 16:40:00 +0000"
@@ -4286,6 +4327,12 @@
   "regions_unexplored:recipes/redstone/larch_door": {
     "criteria": {
       "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 18:00:45 +0000"
     },
     "done": true
   },
@@ -4349,9 +4396,21 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2024-12-19 18:06:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2024-12-19 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 18:00:45 +0000"
     },
     "done": true
   },
@@ -4376,6 +4435,12 @@
   "regions_unexplored:recipes/building_blocks/larch_planks": {
     "criteria": {
       "has_logs": "2024-12-19 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 18:09:28 +0000"
     },
     "done": true
   },
@@ -4436,6 +4501,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-19 16:39:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2024-12-19 18:00:47 +0000"
     },
     "done": true
   },
