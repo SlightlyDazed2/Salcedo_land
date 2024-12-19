@@ -465,3 +465,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 22:59:02.634] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
 [19Dec2024 22:59:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was incinerated by a dragon
 [19Dec2024 22:59:08.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.59.08.dat
+[19Dec2024 23:11:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Chattering Teeth]
+[19Dec2024 23:13:12.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Light as a Rabbit]
