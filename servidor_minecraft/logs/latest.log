@@ -266,3 +266,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 16:10:21.251] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
 [19Dec2024 16:10:34.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Disconnected
 [19Dec2024 16:10:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[19Dec2024 16:18:10.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6587, y=86, z=211} BlockPos{x=-6588, y=84, z=211}
+[19Dec2024 16:18:11.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6589, y=85, z=214} BlockPos{x=-6589, y=84, z=213}
+[19Dec2024 16:18:12.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6586, y=85, z=211} BlockPos{x=-6585, y=84, z=212}
+[19Dec2024 16:19:57.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6602, y=90, z=212} BlockPos{x=-6603, y=88, z=211}
