@@ -4242,6 +4242,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2024-12-19 21:39:17 +0000"
@@ -4308,6 +4320,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_trapdoor": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-19 20:54:12 +0000"
@@ -4362,6 +4386,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2024-12-19 21:07:34 +0000"
@@ -4404,6 +4434,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_pressure_plate": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
@@ -4434,9 +4470,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
     },
     "done": true
   },
@@ -4449,6 +4497,12 @@
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
     },
     "done": true
   },
