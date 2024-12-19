@@ -438,3 +438,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 21:52:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> encontre una hydra
 [19Dec2024 21:53:22.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Timed out
 [19Dec2024 21:53:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
+[19Dec2024 22:42:09.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/44489, l='ServerLevel[world]', x=-6321.15, y=59.00, z=-574.83] died: Brog the Bulwark was slain by fandelaArequi
+[19Dec2024 22:42:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Magic Writing]
+[19Dec2024 22:45:05.075] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:45:05.080] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:45:16.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was turned into KFC by a dragon
+[19Dec2024 22:45:16.136] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.45.16.dat
+[19Dec2024 22:48:12.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Ambush]
+[19Dec2024 22:48:43.024] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:48:43.029] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:48:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was slain by Fire Dragon
+[19Dec2024 22:48:48.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.48.48.dat
+[19Dec2024 22:53:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has reached the goal [Fortuitous Militia]
+[19Dec2024 22:54:49.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tomoyuki'/49747, l='ServerLevel[world]', x=-5933.45, y=91.44, z=-944.30] died, message: 'Tomoyuki went up in flames'
+[19Dec2024 22:54:49.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tomoyuki'/49747, l='ServerLevel[world]', x=-5933.45, y=91.44, z=-944.30] died: Tomoyuki went up in flames
+[19Dec2024 22:55:55.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.47260817710463243
+[19Dec2024 22:55:55.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.9249075134448503
+[19Dec2024 22:55:55.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.3703163095369746
+[19Dec2024 22:55:55.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.7595236153079554
+[19Dec2024 22:56:05.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.1138308470908669
+[19Dec2024 22:56:05.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.1138308470908669
+[19Dec2024 22:56:05.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.7718873264229842
+[19Dec2024 22:56:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.43281845409728703
+[19Dec2024 22:56:45.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/53254, l='ServerLevel[world]', x=-5660.50, y=-1.00, z=-291.50] died: Evil Chicken suffocated in a wall
+[19Dec2024 22:59:02.625] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:59:02.634] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:59:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was incinerated by a dragon
+[19Dec2024 22:59:08.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.59.08.dat

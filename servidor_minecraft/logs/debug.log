@@ -3626,3 +3626,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 22:20:28.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 22:25:28.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 22:25:28.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:30:28.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:30:28.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:35:28.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:35:28.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:38:48.464] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-6108, y=20, z=-285} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:40:28.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:40:28.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:40:49.141] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-6142, y=-1, z=-697} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:42:09.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/44489, l='ServerLevel[world]', x=-6321.15, y=59.00, z=-574.83] died: Brog the Bulwark was slain by fandelaArequi
+[19Dec2024 22:42:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Magic Writing]
+[19Dec2024 22:44:04.992] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-6028, y=14, z=-973} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:45:05.075] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:45:05.080] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:45:16.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was turned into KFC by a dragon
+[19Dec2024 22:45:16.136] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.45.16.dat
+[19Dec2024 22:45:16.136] [Server thread/DEBUG] [tombstone/]: A new grave of the player fandelaArequi was created at position [x:-6150, y:70, z:-994, dim:minecraft:overworld]
+[19Dec2024 22:45:28.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:45:28.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:45:52.889] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-6183, y=-23, z=-1219} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:48:12.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Ambush]
+[19Dec2024 22:48:43.024] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:48:43.029] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:48:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was slain by Fire Dragon
+[19Dec2024 22:48:48.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.48.48.dat
+[19Dec2024 22:48:48.882] [Server thread/DEBUG] [tombstone/]: A new grave of the player fandelaArequi was created at position [x:-6107, y:57, z:-902, dim:minecraft:overworld]
+[19Dec2024 22:50:28.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:50:28.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:53:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has reached the goal [Fortuitous Militia]
+[19Dec2024 22:54:26.861] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-5869, y=-9, z=-1049} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:54:28.022] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-5866, y=-50, z=-788} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:54:49.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tomoyuki'/49747, l='ServerLevel[world]', x=-5933.45, y=91.44, z=-944.30] died, message: 'Tomoyuki went up in flames'
+[19Dec2024 22:54:49.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tomoyuki'/49747, l='ServerLevel[world]', x=-5933.45, y=91.44, z=-944.30] died: Tomoyuki went up in flames
+[19Dec2024 22:55:05.149] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5982, y=-50, z=-477} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:55:28.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:55:28.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:55:39.642] [Worker-Main-73/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-5847, y=7, z=-214} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:55:55.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.47260817710463243
+[19Dec2024 22:55:55.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.9249075134448503
+[19Dec2024 22:55:55.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.3703163095369746
+[19Dec2024 22:55:55.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.7595236153079554
+[19Dec2024 22:56:05.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.1138308470908669
+[19Dec2024 22:56:05.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.1138308470908669
+[19Dec2024 22:56:05.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.7718873264229842
+[19Dec2024 22:56:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.43281845409728703
+[19Dec2024 22:56:45.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/53254, l='ServerLevel[world]', x=-5660.50, y=-1.00, z=-291.50] died: Evil Chicken suffocated in a wall
+[19Dec2024 22:57:55.574] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-5676, y=-9, z=-613} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 22:59:02.625] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[19Dec2024 22:59:02.634] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[19Dec2024 22:59:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was incinerated by a dragon
+[19Dec2024 22:59:08.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.standard_19.12.2024-22.59.08.dat
+[19Dec2024 22:59:08.437] [Server thread/DEBUG] [tombstone/]: A new grave of the player fandelaArequi was created at position [x:-5763, y:117, z:-400, dim:minecraft:overworld]
+[19Dec2024 23:00:28.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 23:00:28.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 23:05:28.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 23:05:28.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
