@@ -309,3 +309,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 18:06:34.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has completed the challenge [Hunted]
 [19Dec2024 18:15:11.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Chrz the quick'/24815, l='ServerLevel[world]', x=-8320.38, y=213.50, z=-466.58] died: Chrz the quick was shot by Milanesas2718314
 [19Dec2024 18:15:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Chattering Teeth]
+[19Dec2024 18:17:14.795] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 18:17:14.797] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 18:17:16.352] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.471] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.495] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.558] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.572] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.596] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.619] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:16.622] [Worker-Main-53/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:17.093] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:17.219] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:17.223] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Dec2024 18:17:19.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
