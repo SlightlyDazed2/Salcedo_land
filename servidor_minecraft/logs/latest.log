@@ -273,3 +273,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 19:22:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [A Flaming Sword]
 [19Dec2024 19:27:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Bone Crusher]
 [19Dec2024 19:30:32.961] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nona}[style={}] has been infected
+[19Dec2024 19:35:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [It Belongs in a Museum]
+[19Dec2024 19:37:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[19Dec2024 19:40:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
