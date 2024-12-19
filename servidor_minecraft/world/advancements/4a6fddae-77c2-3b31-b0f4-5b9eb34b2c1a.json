@@ -4195,45 +4195,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "regions_unexplored:recipes/decorations/willow_hanging_sign": {
     "criteria": {
-      "has_item": "2024-12-19 16:40:50 +0000"
+      "has_stripped_willow_log": "2024-12-19 16:23:33 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
     "criteria": {
-      "coded_trigger": "2024-12-19 16:35:10 +0000"
+      "has_logs": "2024-12-19 16:23:33 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "regions_unexplored:recipes/building_blocks/stripped_willow_wood": {
     "criteria": {
-      "has_bone_block": "2024-12-19 17:57:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2024-12-19 18:15:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2024-12-19 17:04:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2024-12-19 16:39:31 +0000"
+      "has_log": "2024-12-19 16:23:33 +0000"
     },
     "done": true
   },
@@ -4243,141 +4219,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/willow_hanging_sign": {
-    "criteria": {
-      "has_stripped_willow_log": "2024-12-19 16:23:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_slab": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 17:27:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2024-12-19 18:00:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-19 18:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-19 17:57:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_trapdoor": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2024-12-19 17:16:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_fence_gate": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-12-19 17:16:57 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-19 18:08:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2024-12-19 16:31:49 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/larch_door": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+      "coded_trigger": "2024-12-19 16:35:10 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
-      "has_log": "2024-12-19 18:00:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_shrub": {
-    "criteria": {
-      "has_larch_sapling": "2024-12-19 17:36:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_fence": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-12-19 17:16:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
-    "criteria": {
-      "has_log": "2024-12-19 17:27:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_stairs": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+      "has_item": "2024-12-19 16:39:31 +0000"
     },
     "done": true
   },
@@ -4393,21 +4249,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2024-12-19 17:16:57 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-19 16:39:31 +0000"
     },
     "done": true
   },
-  "mca:hunted": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
-      "iron": "2024-12-19 18:06:34 +0000"
+      "has_item": "2024-12-19 16:39:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 16:40:00 +0000"
     },
     "done": true
   },
@@ -4417,57 +4291,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 18:00:45 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/pine_sign": {
     "criteria": {
       "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 16:47:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-19 17:16:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 17:27:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-19 18:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2024-12-19 16:41:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_sign": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-19 16:40:51 +0000"
     },
     "done": true
   },
@@ -4477,21 +4303,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/willow_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 16:23:33 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/pine_door": {
     "criteria": {
       "has_pine_planks": "2024-12-19 16:40:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2024-12-19 17:27:53 +0000"
     },
     "done": true
   },
@@ -4507,15 +4321,183 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+  "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
-      "has_item": "2024-12-19 16:39:31 +0000"
+      "has_item": "2024-12-19 16:40:22 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "has_ender_pearl": "2024-12-19 18:34:41 +0000"
+      "has_item": "2024-12-19 16:40:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-19 16:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-19 16:41:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 16:47:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-19 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2024-12-19 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2024-12-19 17:36:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-19 17:47:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-19 17:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-19 17:57:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-12-19 18:00:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 18:00:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 18:00:45 +0000"
     },
     "done": true
   },
@@ -4525,21 +4507,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
+  "mca:hunted": {
     "criteria": {
-      "has_item": "2024-12-19 16:40:22 +0000"
+      "iron": "2024-12-19 18:06:34 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_willow_wood": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "has_log": "2024-12-19 16:23:33 +0000"
+      "location0": "2024-12-19 18:08:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
-      "has_item": "2024-12-19 17:47:45 +0000"
+      "has_gravel": "2024-12-19 18:09:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 18:09:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-19 18:15:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 18:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 20:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 20:48:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-19 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 20:48:43 +0000"
     },
     "done": true
   },

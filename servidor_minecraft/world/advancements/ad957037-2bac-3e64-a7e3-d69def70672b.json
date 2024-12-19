@@ -686,6 +686,7 @@
       "minecraft:witch": "2024-12-19 19:34:52 +0000",
       "minecraft:wither_skeleton": "2024-12-19 03:23:00 +0000",
       "minecraft:husk": "2024-12-17 04:51:27 +0000",
+      "minecraft:cave_spider": "2024-12-19 20:16:45 +0000",
       "minecraft:piglin": "2024-12-19 03:35:03 +0000",
       "minecraft:enderman": "2024-12-19 01:59:30 +0000",
       "minecraft:stray": "2024-12-19 02:10:59 +0000",
@@ -4934,6 +4935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 19:09:55 +0000"
@@ -4943,6 +4950,12 @@
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -4982,9 +4995,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -5000,15 +5025,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2024-12-19 19:13:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 20:13:05 +0000"
     },
     "done": true
   },
@@ -5030,6 +5085,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 20:13:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
@@ -5039,6 +5100,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -5102,6 +5169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
@@ -5132,6 +5205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
@@ -5150,9 +5229,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2024-12-19 19:22:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2024-12-19 20:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -5180,9 +5283,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2024-12-19 19:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 20:13:05 +0000"
     },
     "done": true
   },
@@ -5228,6 +5349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2024-12-19 19:22:27 +0000"
@@ -5237,6 +5364,12 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -5270,6 +5403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 19:09:55 +0000"
@@ -5288,9 +5427,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 20:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2024-12-19 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
     },
     "done": true
   },
@@ -5306,9 +5457,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 20:12:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-12-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 20:13:05 +0000"
     },
     "done": true
   },
