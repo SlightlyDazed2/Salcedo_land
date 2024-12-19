@@ -743,6 +743,7 @@
       "minecraft:skeleton": "2024-12-16 20:18:13 +0000",
       "minecraft:vindicator": "2024-12-16 20:28:07 +0000",
       "minecraft:spider": "2024-12-16 20:53:49 +0000",
+      "minecraft:creeper": "2024-12-19 16:25:25 +0000",
       "minecraft:husk": "2024-12-18 03:09:33 +0000",
       "minecraft:silverfish": "2024-12-17 02:33:12 +0000",
       "minecraft:zombie": "2024-12-16 20:18:50 +0000",
@@ -3401,7 +3402,10 @@
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "maple_forest": "2024-12-19 16:24:18 +0000",
+      "boreal_forest": "2024-12-19 16:24:19 +0000",
       "towering_cliffs": "2024-12-19 00:14:04 +0000",
+      "temperate_grove": "2024-12-19 16:23:56 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -3411,7 +3415,10 @@
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "maple_forest": "2024-12-19 16:24:18 +0000",
+      "boreal_forest": "2024-12-19 16:24:19 +0000",
       "towering_cliffs": "2024-12-19 00:14:04 +0000",
+      "temperate_grove": "2024-12-19 16:23:56 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -4157,6 +4164,30 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-19 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-12-19 16:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_stripped_willow_log": "2024-12-19 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_willow_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 16:23:33 +0000"
     },
     "done": true
   },

@@ -3382,3 +3382,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 16:23:17.924] [Worker-Main-10/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
 [19Dec2024 16:23:54.608] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-7320, y=-47, z=-10} at Chest with:minecraft:chests/simple_dungeon
 [19Dec2024 16:24:06.299] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-7382, y=-10, z=107} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:24:56.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 16:24:56.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 16:25:29.041] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-7541, y=-20, z=178} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:26:00.475] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-7667, y=-10, z=166} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:26:22.480] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-7713, y=29, z=-33} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:29:56.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 16:29:56.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 16:30:32.271] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-7794, y=-33, z=-42} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:31:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has completed the challenge [Village Defender]
+[19Dec2024 16:34:10.679] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-7830, y=-4, z=170} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 16:34:15.097] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-7771, y=-38, z=-192} at Chest with:minecraft:chests/simple_dungeon

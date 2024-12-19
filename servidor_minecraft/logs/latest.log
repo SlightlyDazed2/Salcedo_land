@@ -270,3 +270,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 16:18:11.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6589, y=85, z=214} BlockPos{x=-6589, y=84, z=213}
 [19Dec2024 16:18:12.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6586, y=85, z=211} BlockPos{x=-6585, y=84, z=212}
 [19Dec2024 16:19:57.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6602, y=90, z=212} BlockPos{x=-6603, y=88, z=211}
+[19Dec2024 16:31:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has completed the challenge [Village Defender]
