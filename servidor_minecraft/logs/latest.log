@@ -265,3 +265,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 19:03:31.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
 [19Dec2024 19:06:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
 [19Dec2024 19:06:42.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[19Dec2024 19:13:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[19Dec2024 19:13:49.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Herc was on a Roll!]
+[19Dec2024 19:14:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[19Dec2024 19:14:43.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[19Dec2024 19:17:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Light as a Frog]
+[19Dec2024 19:22:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [A Flaming Sword]
+[19Dec2024 19:27:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Bone Crusher]
+[19Dec2024 19:30:32.961] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nona}[style={}] has been infected

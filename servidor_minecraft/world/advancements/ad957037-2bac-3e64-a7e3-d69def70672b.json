@@ -3520,6 +3520,7 @@
     "criteria": {
       "shrubland": "2024-12-18 05:19:08 +0000",
       "redstone_abyss": "2024-12-19 04:00:32 +0000",
+      "bayou": "2024-12-19 19:12:10 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
       "rocky_meadow": "2024-12-18 04:05:22 +0000",
       "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000",
@@ -3536,6 +3537,7 @@
       "infernal_holt": "2024-12-19 03:30:10 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
+      "old_growth_bayou": "2024-12-19 19:11:08 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
     "done": false
@@ -3543,6 +3545,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-12-18 05:19:08 +0000",
+      "bayou": "2024-12-19 19:12:10 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
       "rocky_meadow": "2024-12-18 04:05:22 +0000",
       "ochard": "2024-12-18 05:19:47 +0000",
@@ -3555,6 +3558,7 @@
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
+      "old_growth_bayou": "2024-12-19 19:11:08 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
     "done": false
@@ -3814,6 +3818,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "willow_log": "2024-12-19 02:00:08 +0000",
+      "mauve_log": "2024-12-19 19:09:38 +0000",
       "pine_log": "2024-12-18 06:19:31 +0000"
     },
     "done": false
@@ -4923,6 +4928,198 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2024-12-19 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2024-12-19 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-19 19:22:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-19 19:20:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-19 19:20:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2024-12-19 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 19:27:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 19:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:22 +0000"
     },
     "done": true
   },
