@@ -3416,6 +3416,7 @@
       "towering_cliffs": "2024-12-19 00:14:04 +0000",
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
+      "cold_river": "2024-12-19 17:38:27 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -3430,6 +3431,7 @@
       "towering_cliffs": "2024-12-19 00:14:04 +0000",
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
+      "cold_river": "2024-12-19 17:38:27 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -4284,6 +4286,12 @@
   "regions_unexplored:recipes/redstone/larch_door": {
     "criteria": {
       "has_larch_planks": "2024-12-19 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2024-12-19 17:36:16 +0000"
     },
     "done": true
   },
