@@ -32,6 +32,7 @@
       "minecraft:forest": "2024-12-17 23:41:12 +0000",
       "minecraft:deep_cold_ocean": "2024-12-18 21:49:38 +0000",
       "minecraft:ocean": "2024-12-18 21:45:58 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-19 21:46:25 +0000",
       "minecraft:savanna": "2024-12-17 23:24:37 +0000",
       "minecraft:plains": "2024-12-17 23:42:07 +0000"
     },
@@ -842,9 +843,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-19 03:30:20 +0000",
+      "cooked_mutton": "2024-12-19 21:08:37 +0000",
       "sweet_berries": "2024-12-19 01:18:09 +0000",
       "cooked_beef": "2024-12-19 02:38:43 +0000",
       "baked_potato": "2024-12-18 21:53:09 +0000",
+      "beef": "2024-12-19 21:51:39 +0000",
       "porkchop": "2024-12-19 04:08:11 +0000",
       "apple": "2024-12-19 01:30:31 +0000",
       "cooked_cod": "2024-12-18 22:21:13 +0000",
@@ -2190,11 +2193,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-19 21:43:45 +0000",
       "shrubland": "2024-12-19 02:03:31 +0000",
       "redstone_abyss": "2024-12-19 04:00:33 +0000",
+      "fen": "2024-12-19 21:42:34 +0000",
+      "bayou": "2024-12-19 21:04:40 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
       "mycotoxic_undergrowth": "2024-12-19 02:50:21 +0000",
+      "flower_fields": "2024-12-19 21:40:43 +0000",
       "maple_forest": "2024-12-19 02:44:08 +0000",
       "glistering_meadow": "2024-12-19 04:00:26 +0000",
       "blackstone_basin": "2024-12-19 02:50:56 +0000",
@@ -2206,9 +2213,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-19 21:43:45 +0000",
       "shrubland": "2024-12-19 02:03:31 +0000",
+      "fen": "2024-12-19 21:42:34 +0000",
+      "bayou": "2024-12-19 21:04:40 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
+      "flower_fields": "2024-12-19 21:40:43 +0000",
       "maple_forest": "2024-12-19 02:44:08 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000",
       "temperate_grove": "2024-12-19 02:45:01 +0000"
@@ -2626,7 +2637,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "willow_log": "2024-12-19 02:43:40 +0000",
-      "pine_log": "2024-12-19 01:42:32 +0000"
+      "pine_log": "2024-12-19 01:42:32 +0000",
+      "cypress_log": "2024-12-19 21:05:48 +0000"
     },
     "done": false
   },
@@ -4206,9 +4218,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cypress_shrub": {
+    "criteria": {
+      "has_cypress_sapling": "2024-12-19 21:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-19 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
     },
     "done": true
   },
@@ -4218,9 +4254,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-19 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-19 21:27:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_button": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
     },
     "done": true
   },
@@ -4230,9 +4284,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-19 21:49:57 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2024-12-19 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
     },
     "done": true
   },
@@ -4248,15 +4320,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-19 21:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-12-19 20:54:12 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-19 21:07:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_door": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
+    "criteria": {
+      "has_willow_shrub": "2024-12-19 21:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cypress_branch_from_cypress_log": {
+    "criteria": {
+      "has_log": "2024-12-19 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-19 21:07:34 +0000"
     },
     "done": true
   },
@@ -4272,9 +4380,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-19 21:07:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 21:12:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
     },
     "done": true
   },
@@ -4290,6 +4416,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-12-19 20:51:48 +0000"
@@ -4302,9 +4434,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/willow_fence": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-19 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 21:05:48 +0000"
     },
     "done": true
   },
@@ -4320,9 +4500,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-19 21:07:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/willow_slab": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-19 21:27:20 +0000"
     },
     "done": true
   },
