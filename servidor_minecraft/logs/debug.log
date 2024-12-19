@@ -3411,3 +3411,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 16:37:28.054] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-8271, y=171, z=474} at Chest with:minecraft:chests/simple_dungeon
 [19Dec2024 16:39:56.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 16:39:56.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 16:44:56.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 16:44:56.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 16:46:32.568] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:46:32.580] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:46:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:46:48.379] [Server thread/DEBUG] [tombstone/]: A new grave of the player Milanesas2718314 was created at position [x:-8093, y:149, z:317, dim:minecraft:overworld]
+[19Dec2024 16:47:13.806] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:47:13.820] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:47:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Chain Death]
+[19Dec2024 16:47:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:48:59.807] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:48:59.823] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:49:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:49:56.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 16:49:56.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 16:52:39.311] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Želimir}[style={}] has been infected
+[19Dec2024 16:52:44.859] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Želimir}[style={}] has been infected
+[19Dec2024 16:52:44.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Želimir'/12149, l='ServerLevel[world]', x=-6704.79, y=59.34, z=362.45] died, message: 'Želimir was slain by Zombie'
+[19Dec2024 16:52:44.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Želimir'/12149, l='ServerLevel[world]', x=-6704.79, y=59.34, z=362.45] died: Želimir was slain by Zombie
+[19Dec2024 16:54:56.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 16:54:56.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

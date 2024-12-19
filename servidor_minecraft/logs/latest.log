@@ -278,3 +278,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 16:35:36.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nona'/7070, l='ServerLevel[world]', x=-7742.29, y=77.00, z=84.80] died, message: 'Nona was slain by Milanesas2718314'
 [19Dec2024 16:35:39.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albert'/7071, l='ServerLevel[world]', x=-7738.50, y=77.00, z=77.61] died, message: 'Albert was slain by Milanesas2718314'
 [19Dec2024 16:35:53.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Schorena'/7068, l='ServerLevel[world]', x=-7766.14, y=77.00, z=73.49] died, message: 'Schorena was slain by Milanesas2718314'
+[19Dec2024 16:46:32.568] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:46:32.580] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:46:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:47:13.806] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:47:13.820] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:47:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Chain Death]
+[19Dec2024 16:47:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:48:59.807] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
+[19Dec2024 16:48:59.823] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[19Dec2024 16:49:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Dread Ghoul
+[19Dec2024 16:52:39.311] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Želimir}[style={}] has been infected
+[19Dec2024 16:52:44.859] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Želimir}[style={}] has been infected
+[19Dec2024 16:52:44.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Želimir'/12149, l='ServerLevel[world]', x=-6704.79, y=59.34, z=362.45] died, message: 'Želimir was slain by Zombie'
+[19Dec2024 16:52:44.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Želimir'/12149, l='ServerLevel[world]', x=-6704.79, y=59.34, z=362.45] died: Želimir was slain by Zombie
