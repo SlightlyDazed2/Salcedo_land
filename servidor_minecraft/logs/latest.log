@@ -289,3 +289,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 19:59:17.369] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
 [19Dec2024 19:59:17.371] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
 [19Dec2024 20:00:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Fire Dragon
+[19Dec2024 20:12:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [The Cutest Predator]

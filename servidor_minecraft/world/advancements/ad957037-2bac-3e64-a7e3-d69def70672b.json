@@ -5048,6 +5048,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-19 20:12:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:light_as_a_frog": {
     "criteria": {
       "lily_pad": "2024-12-19 19:17:14 +0000"
@@ -5177,6 +5183,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2024-12-19 19:20:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2024-12-19 20:06:15 +0000"
     },
     "done": true
   },
