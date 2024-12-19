@@ -4225,9 +4225,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_fence": {
     "criteria": {
       "has_pine_planks": "2024-12-19 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
     },
     "done": true
   },
@@ -4243,6 +4255,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2024-12-19 16:39:31 +0000"
@@ -4252,6 +4270,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_slab": {
     "criteria": {
       "has_item": "2024-12-19 16:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
     },
     "done": true
   },
@@ -4276,6 +4300,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-19 16:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 17:16:57 +0000"
     },
     "done": true
   },
