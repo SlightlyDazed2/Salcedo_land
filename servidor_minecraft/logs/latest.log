@@ -276,3 +276,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 19:35:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [It Belongs in a Museum]
 [19Dec2024 19:37:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
 [19Dec2024 19:40:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[19Dec2024 19:43:03.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/22509, l='ServerLevel[world]', x=-6675.70, y=58.00, z=-1121.60] died: Yomach the Toxic was shot by Slighttly_Dazed
+[19Dec2024 19:49:25.015] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:49:25.025] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 19:49:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Corvin the Rotten
+[19Dec2024 19:49:38.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_19.12.2024-19.49.38.dat
+[19Dec2024 19:51:15.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/27528, l='ServerLevel[world]', x=-7084.48, y=67.00, z=-743.86] died: Corvin the Rotten was shot by Slighttly_Dazed
+[19Dec2024 19:51:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has completed the challenge [Serious Dedication]
+[19Dec2024 19:57:41.255] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:57:41.264] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 19:58:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Cyclops
+[19Dec2024 19:59:17.369] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:59:17.371] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 20:00:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Fire Dragon

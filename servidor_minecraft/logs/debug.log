@@ -3284,3 +3284,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 19:41:40.544] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-6828, y=-15, z=-909} at Chest with:minecraft:chests/simple_dungeon
 [19Dec2024 19:42:08.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 19:42:08.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:43:03.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/22509, l='ServerLevel[world]', x=-6675.70, y=58.00, z=-1121.60] died: Yomach the Toxic was shot by Slighttly_Dazed
+[19Dec2024 19:43:36.610] [Worker-Main-19/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-6941, y=38, z=-1321} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:43:51.153] [Worker-Main-19/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-6947, y=30, z=-879} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:45:07.181] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-7101, y=62, z=-745} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:45:10.944] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-6939, y=26, z=-703} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:45:12.195] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=-7115, y=-39, z=-795} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:45:27.259] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-7172, y=-48, z=-662} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:47:08.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:47:08.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:47:59.921] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-7307, y=-54, z=-668} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:49:25.015] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:49:25.025] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 19:49:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Corvin the Rotten
+[19Dec2024 19:49:38.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_19.12.2024-19.49.38.dat
+[19Dec2024 19:49:38.586] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-7087, y:59, z:-752, dim:minecraft:overworld]
+[19Dec2024 19:51:15.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/27528, l='ServerLevel[world]', x=-7084.48, y=67.00, z=-743.86] died: Corvin the Rotten was shot by Slighttly_Dazed
+[19Dec2024 19:51:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has completed the challenge [Serious Dedication]
+[19Dec2024 19:52:08.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:52:08.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:56:39.104] [Worker-Main-19/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-7269, y=-44, z=-440} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 19:57:08.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:57:08.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:57:41.255] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:57:41.264] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 19:58:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Cyclops
+[19Dec2024 19:58:06.159] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-6974, y:87, z:-667, dim:minecraft:overworld]
+[19Dec2024 19:59:17.369] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[19Dec2024 19:59:17.371] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[19Dec2024 20:00:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Fire Dragon
+[19Dec2024 20:00:17.378] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-6880, y:83, z:-600, dim:minecraft:overworld]
+[19Dec2024 20:02:08.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 20:02:08.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
