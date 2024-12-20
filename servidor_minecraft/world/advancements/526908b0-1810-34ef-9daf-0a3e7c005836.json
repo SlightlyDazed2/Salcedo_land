@@ -5279,6 +5279,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 22:57:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-20 22:39:07 +0000"
@@ -5327,6 +5333,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-20 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-20 23:00:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2024-12-20 22:42:55 +0000"
@@ -5357,6 +5375,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-20 23:00:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2024-12-20 22:42:55 +0000"
@@ -5375,9 +5399,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/larch_sapling_from_larch_shrub": {
+    "criteria": {
+      "has_larch_shrub": "2024-12-20 22:55:52 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2024-12-20 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 22:57:25 +0000"
     },
     "done": true
   },
@@ -5390,6 +5426,12 @@
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2024-12-20 22:50:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 22:57:25 +0000"
     },
     "done": true
   },
