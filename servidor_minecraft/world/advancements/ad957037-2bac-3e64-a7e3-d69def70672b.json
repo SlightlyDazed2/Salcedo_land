@@ -157,6 +157,7 @@
       "baked_potato": "2024-12-18 03:31:22 +0000",
       "porkchop": "2024-12-17 20:57:26 +0000",
       "potato": "2024-12-16 20:02:03 +0000",
+      "pumpkin_pie": "2024-12-20 03:42:17 +0000",
       "mutton": "2024-12-17 21:02:46 +0000",
       "bread": "2024-12-16 20:12:33 +0000",
       "golden_apple": "2024-12-18 06:17:59 +0000",
@@ -5515,7 +5516,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 02:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-20 02:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-20 02:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-20 02:55:00 +0000"
     },
@@ -5539,21 +5558,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-20 02:55:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-20 03:01:47 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/paraglider": {
-    "criteria": {
-      "has_stick": "2024-12-20 03:34:51 +0000"
     },
     "done": true
   },
@@ -5563,21 +5570,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-20 02:55:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-20 03:01:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-20 02:45:37 +0000"
     },
     "done": true
   },
@@ -5590,12 +5585,6 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-20 03:01:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-12-20 03:16:01 +0000"
     },
     "done": true
   },
@@ -5614,6 +5603,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-20 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-20 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-20 03:34:51 +0000"
     },
     "done": true
   },

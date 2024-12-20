@@ -4971,6 +4971,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 03:47:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2024-12-20 03:08:40 +0000"
@@ -5076,6 +5082,12 @@
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2024-12-20 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-20 03:43:53 +0000"
     },
     "done": true
   },
@@ -5196,6 +5208,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2024-12-20 03:43:05 +0000"
     },
     "done": true
   },
