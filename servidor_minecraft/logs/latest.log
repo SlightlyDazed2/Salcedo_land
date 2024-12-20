@@ -727,3 +727,101 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 03:48:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> aca ta
 [20Dec2024 03:49:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pa hacerle daño la tienes q quemar
 [20Dec2024 03:50:45.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> asu
+[20Dec2024 03:51:15.010] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:51:15.013] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:51:26.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pera
+[20Dec2024 03:51:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> avisame
+[20Dec2024 03:51:34.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> cuanto te falta
+[20Dec2024 03:51:39.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> 30s
+[20Dec2024 03:52:29.900] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:52:29.910] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:52:54.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[20Dec2024 03:52:54.497] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_20.12.2024-03.52.54.dat
+[20Dec2024 03:52:56.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
+[20Dec2024 03:52:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> no te mates
+[20Dec2024 03:54:47.603] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[20Dec2024 03:54:47.606] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[20Dec2024 03:54:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> date la vuelta
+[20Dec2024 03:55:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> comida
+[20Dec2024 03:55:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tienes ?
+[20Dec2024 03:56:02.156] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[20Dec2024 03:56:02.158] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[20Dec2024 03:57:36.648] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:57:36.656] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:57:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> mano,solo el fuego le hace daño
+[20Dec2024 03:57:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ya vengo
+[20Dec2024 03:57:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> perame
+[20Dec2024 03:57:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
+[20Dec2024 03:57:55.747] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[20Dec2024 03:57:55.754] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[20Dec2024 03:57:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[20Dec2024 03:57:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xddd
+[20Dec2024 03:58:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was slain by Hydra
+[20Dec2024 03:58:08.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for fandelaArequi with unique ID travelersbackpack.cow_20.12.2024-03.58.08.dat
+[20Dec2024 03:59:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ven
+[20Dec2024 03:59:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> t voy a dar algo
+[20Dec2024 03:59:24.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [A Flaming Sword]
+[20Dec2024 03:59:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pegale con eso
+[20Dec2024 03:59:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> donde lo conseguiste
+[20Dec2024 03:59:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
+[20Dec2024 03:59:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> es la espada d hueso
+[20Dec2024 03:59:51.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pero con un frasco sacas sangre d un cadaver d dragon y lo mezclas
+[20Dec2024 04:00:06.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has reached the goal [Sweet Sweet Speeding Up]
+[20Dec2024 04:00:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> para eso era el hueso d whiter,usa eso en lugar pa craftear
+[20Dec2024 04:00:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oee
+[20Dec2024 04:00:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pegale
+[20Dec2024 04:00:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> a
+[20Dec2024 04:00:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> fast
+[20Dec2024 04:00:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pera
+[20Dec2024 04:00:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> voy rapido
+[20Dec2024 04:00:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ?
+[20Dec2024 04:00:49.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> zy
+[20Dec2024 04:00:56.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fandelaArequi moved wrongly!
+[20Dec2024 04:01:19.534] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[20Dec2024 04:01:19.536] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[20Dec2024 04:01:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> wtf
+[20Dec2024 04:01:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> se me buguio
+[20Dec2024 04:01:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> el contador
+[20Dec2024 04:01:50.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> y no puedo dar esc
+[20Dec2024 04:01:59.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fandelaArequi lost connection: Disconnected
+[20Dec2024 04:01:59.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi left the game
+[20Dec2024 04:01:59.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi hit the ground too hard
+[20Dec2024 04:02:10.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:51521] logged in with entity id 46644 at (-7121.2735957651885, 73.0, -27.05862278986455)
+[20Dec2024 04:02:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[20Dec2024 04:02:10.408] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[20Dec2024 04:02:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> iba a revivirte
+[20Dec2024 04:02:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> axel s la baho von minas
+[20Dec2024 04:02:50.049] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 04:02:50.059] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 04:02:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ven
+[20Dec2024 04:02:54.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
+[20Dec2024 04:02:56.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> atras
+[20Dec2024 04:03:07.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[20Dec2024 04:03:22.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> mano
+[20Dec2024 04:03:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> q
+[20Dec2024 04:03:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tiene regenracion 3
+[20Dec2024 04:03:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tdodo daño q le hagas
+[20Dec2024 04:03:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> no le hace nd
+[20Dec2024 04:03:41.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> vamonos noma
+[20Dec2024 04:03:41.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> solo fuego le afecta
+[20Dec2024 04:03:42.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
+[20Dec2024 04:03:47.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> igual no da loot
+[20Dec2024 04:03:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> solo un colmillo q no srive
+[20Dec2024 04:04:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[20Dec2024 04:04:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mi armadura
+[20Dec2024 04:04:23.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> :c
+[20Dec2024 04:04:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ya jateo mno
+[20Dec2024 04:04:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> quedatye la espada
+[20Dec2024 04:04:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> taba chevre mano
+[20Dec2024 04:04:47.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> gracias
+[20Dec2024 04:04:53.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mñn farmeamos dragones
+[20Dec2024 04:04:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> descansa ya
+[20Dec2024 04:04:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ya
+[20Dec2024 04:05:06.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pq tan kk mi armadura
+[20Dec2024 04:05:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ya
+[20Dec2024 04:05:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> safo
+[20Dec2024 04:05:24.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fandelaArequi lost connection: Disconnected
+[20Dec2024 04:05:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi left the game
+[20Dec2024 04:05:45.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Slighttly_Dazed to -6763.500000, 74.000000, 370.500000]
+[20Dec2024 04:09:22.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[20Dec2024 04:09:23.999] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Ines}[style={}] has been infected
