@@ -1,4 +1,24 @@
 
+[client_options]
+	toggle_mauve_leaves_particles = true
+	toggle_blue_magnolia_leaves_particles = true
+	toggle_pink_magnolia_leaves_particles = true
+	toggle_white_magnolia_leaves_particles = true
+	toggle_red_maple_leaves_particles = true
+	toggle_orange_maple_leaves_particles = true
+	toggle_silver_birch_leaves_particles = true
+	toggle_enchanted_birch_leaves_particles = true
+	#block_color_options
+	#Sets Eucalyptus colour transition size. Bigger number = bigger distance between colours.
+	#Range: 0.0 ~ 200.0
+	eucalyptus_transition_size = 25.0
+	#Sets Eucalyptus colour saturation.
+	#Range: 0.0 ~ 1.0
+	eucalyptus_saturation = 0.5
+	#Sets Eucalyptus colour saturation.
+	#Range: 0.0 ~ 1.0
+	eucalyptus_brightness = 0.8
+
 #Config for Regions Unexplored!
 [region_configs]
 	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
@@ -96,24 +116,4 @@
 [worldgen_options]
 	#surface_rules
 	toggle_custom_dirt = true
-
-[client_options]
-	toggle_mauve_leaves_particles = true
-	toggle_blue_magnolia_leaves_particles = true
-	toggle_pink_magnolia_leaves_particles = true
-	toggle_white_magnolia_leaves_particles = true
-	toggle_red_maple_leaves_particles = true
-	toggle_orange_maple_leaves_particles = true
-	toggle_silver_birch_leaves_particles = true
-	toggle_enchanted_birch_leaves_particles = true
-	#block_color_options
-	#Sets Eucalyptus colour transition size. Bigger number = bigger distance between colours.
-	#Range: 0.0 ~ 200.0
-	eucalyptus_transition_size = 25.0
-	#Sets Eucalyptus colour saturation.
-	#Range: 0.0 ~ 1.0
-	eucalyptus_saturation = 0.5
-	#Sets Eucalyptus colour saturation.
-	#Range: 0.0 ~ 1.0
-	eucalyptus_brightness = 0.8
 
