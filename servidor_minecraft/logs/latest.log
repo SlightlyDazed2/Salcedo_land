@@ -830,3 +830,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 04:11:46.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:42807] logged in with entity id 48528 at (-6776.3068410252945, 82.0, 337.6842961170451)
 [20Dec2024 04:11:46.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
 [20Dec2024 04:11:46.249] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[20Dec2024 04:31:18.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: You logged in from another location
+[20Dec2024 04:31:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[20Dec2024 04:31:18.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:42901] logged in with entity id 51403 at (-6780.219505794525, 91.74317126936853, 343.69999998807907)
+[20Dec2024 04:31:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[20Dec2024 04:31:18.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Diamond is Unbreakable]
+[20Dec2024 04:31:18.930] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
