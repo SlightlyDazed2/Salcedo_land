@@ -28,6 +28,7 @@
       "minecraft:snowy_slopes": "2024-12-20 02:43:11 +0000",
       "minecraft:taiga": "2024-12-17 23:25:48 +0000",
       "minecraft:deep_ocean": "2024-12-18 21:45:41 +0000",
+      "minecraft:frozen_river": "2024-12-20 23:12:19 +0000",
       "minecraft:stony_peaks": "2024-12-19 23:13:44 +0000",
       "minecraft:river": "2024-12-19 22:39:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-20 03:06:42 +0000",
@@ -38,6 +39,7 @@
       "minecraft:cold_ocean": "2024-12-17 23:43:24 +0000",
       "minecraft:forest": "2024-12-17 23:41:12 +0000",
       "minecraft:deep_cold_ocean": "2024-12-18 21:49:38 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 23:16:46 +0000",
       "minecraft:ocean": "2024-12-18 21:45:58 +0000",
       "minecraft:snowy_beach": "2024-12-20 23:09:49 +0000",
       "minecraft:deep_dark": "2024-12-20 03:09:51 +0000",
@@ -873,6 +875,7 @@
       "golden_apple": "2024-12-19 03:29:58 +0000",
       "rotten_flesh": "2024-12-19 01:12:47 +0000",
       "golden_carrot": "2024-12-19 22:50:23 +0000",
+      "cooked_rabbit": "2024-12-20 23:11:49 +0000",
       "carrot": "2024-12-18 22:14:08 +0000"
     },
     "done": false
@@ -2224,6 +2227,7 @@
       "flower_fields": "2024-12-19 21:40:43 +0000",
       "highland_fields": "2024-12-19 22:58:17 +0000",
       "maple_forest": "2024-12-19 02:44:08 +0000",
+      "frozen_pine_taiga": "2024-12-20 23:16:15 +0000",
       "magnolia_highlands": "2024-12-19 23:04:35 +0000",
       "glistering_meadow": "2024-12-19 04:00:26 +0000",
       "blackstone_basin": "2024-12-19 02:50:56 +0000",
@@ -2250,6 +2254,7 @@
       "flower_fields": "2024-12-19 21:40:43 +0000",
       "highland_fields": "2024-12-19 22:58:17 +0000",
       "maple_forest": "2024-12-19 02:44:08 +0000",
+      "frozen_pine_taiga": "2024-12-20 23:16:15 +0000",
       "magnolia_highlands": "2024-12-19 23:04:35 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000",
       "cold_boreal_taiga": "2024-12-20 22:43:59 +0000",
@@ -5263,9 +5268,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mauve_wood": {
     "criteria": {
       "has_log": "2024-12-20 22:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
     },
     "done": true
   },
@@ -5281,6 +5298,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2024-12-20 22:48:36 +0000"
@@ -5293,6 +5316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2024-12-20 23:10:38 +0000"
@@ -5302,6 +5331,12 @@
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-20 22:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
     },
     "done": true
   },
@@ -5335,6 +5370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-20 23:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-20 22:37:31 +0000"
@@ -5344,6 +5385,24 @@
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2024-12-20 22:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
     },
     "done": true
   },
@@ -5359,6 +5418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2024-12-20 22:42:55 +0000"
@@ -5368,6 +5433,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2024-12-20 22:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
     },
     "done": true
   },
@@ -5383,9 +5454,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-20 22:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 23:13:05 +0000"
     },
     "done": true
   },
@@ -5413,6 +5508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2024-12-20 23:10:38 +0000"
@@ -5437,9 +5538,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-20 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 23:13:05 +0000"
     },
     "done": true
   },
@@ -5461,6 +5574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-20 22:48:36 +0000"
@@ -5473,9 +5592,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 23:11:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2024-12-20 22:50:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-20 23:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
     },
     "done": true
   },
