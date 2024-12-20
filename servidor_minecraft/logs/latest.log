@@ -848,3 +848,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 05:19:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
 [20Dec2024 05:20:36.544] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21f0d0bb[id=<null>,name=Slighttly_Dazed,properties={},legacy=false] (/127.225.50.35:38895) lost connection: Disconnected
 [20Dec2024 05:21:13.843] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b2ee3c6[id=<null>,name=Slighttly_Dazed,properties={},legacy=false] (/127.225.50.35:51451) lost connection: Disconnected
+[20Dec2024 05:22:39.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:54085] logged in with entity id 59209 at (-6777.1924584725475, 82.0, 332.40603047844087)
+[20Dec2024 05:22:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[20Dec2024 05:22:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Diamond is Unbreakable]
+[20Dec2024 05:22:39.176] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[20Dec2024 05:24:36.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[20Dec2024 05:27:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
