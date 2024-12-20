@@ -3420,6 +3420,7 @@
       "shrubland": "2024-12-19 21:43:08 +0000",
       "cold_deciduous_forest": "2024-12-19 18:00:24 +0000",
       "bayou": "2024-12-20 02:08:33 +0000",
+      "autumnal_maple_forest": "2024-12-20 22:34:26 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "frozen_tundra": "2024-12-19 18:03:14 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
@@ -3446,6 +3447,7 @@
       "shrubland": "2024-12-19 21:43:08 +0000",
       "cold_deciduous_forest": "2024-12-19 18:00:24 +0000",
       "bayou": "2024-12-20 02:08:33 +0000",
+      "autumnal_maple_forest": "2024-12-20 22:34:26 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "frozen_tundra": "2024-12-19 18:03:14 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
@@ -5115,6 +5117,96 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-20 15:51:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 22:22:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-20 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-20 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-20 22:31:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-20 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-12-20 22:44:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-20 22:34:05 +0000"
     },
     "done": true
   },
