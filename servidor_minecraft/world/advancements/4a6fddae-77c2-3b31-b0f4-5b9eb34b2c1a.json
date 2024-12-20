@@ -4968,6 +4968,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_aster": {
+    "criteria": {
+      "has_aster": "2024-12-20 15:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 15:16:16 +0000"
@@ -4983,6 +4989,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 15:16:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 15:17:38 +0000"
     },
     "done": true
   },
