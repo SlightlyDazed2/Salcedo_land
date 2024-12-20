@@ -269,3 +269,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 15:23:47.542] [Server thread/WARN] [tombstone/]: The death event of the player Milanesas2718314 was canceled by another mod
 [20Dec2024 15:23:47.593] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
 [20Dec2024 15:24:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 died
+[20Dec2024 15:33:16.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leo'/5521, l='ServerLevel[world]', x=-6770.13, y=63.00, z=479.74] died, message: 'Leo was shot by Milanesas2718314'
+[20Dec2024 15:33:16.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Leo'/5521, l='ServerLevel[world]', x=-6770.13, y=63.00, z=479.74] died: Leo was shot by Milanesas2718314
+[20Dec2024 15:33:19.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Željka'/5522, l='ServerLevel[world]', x=-6771.31, y=62.00, z=479.97] died, message: 'Željka was shot by Milanesas2718314'
+[20Dec2024 15:33:19.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Željka'/5522, l='ServerLevel[world]', x=-6771.31, y=62.00, z=479.97] died: Željka was shot by Milanesas2718314
+[20Dec2024 15:33:29.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Smilja'/5523, l='ServerLevel[world]', x=-6771.83, y=62.00, z=480.49] died, message: 'Smilja was shot by Milanesas2718314'
+[20Dec2024 15:33:29.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Smilja'/5523, l='ServerLevel[world]', x=-6771.83, y=62.00, z=480.49] died: Smilja was shot by Milanesas2718314
+[20Dec2024 15:33:32.431] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Darija'/5520, l='ServerLevel[world]', x=-6772.21, y=62.00, z=481.36] died, message: 'Darija was shot by Milanesas2718314'
+[20Dec2024 15:33:32.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Darija'/5520, l='ServerLevel[world]', x=-6772.21, y=62.00, z=481.36] died: Darija was shot by Milanesas2718314
