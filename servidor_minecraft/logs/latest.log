@@ -277,3 +277,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 15:33:29.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Smilja'/5523, l='ServerLevel[world]', x=-6771.83, y=62.00, z=480.49] died: Smilja was shot by Milanesas2718314
 [20Dec2024 15:33:32.431] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Darija'/5520, l='ServerLevel[world]', x=-6772.21, y=62.00, z=481.36] died, message: 'Darija was shot by Milanesas2718314'
 [20Dec2024 15:33:32.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Darija'/5520, l='ServerLevel[world]', x=-6772.21, y=62.00, z=481.36] died: Darija was shot by Milanesas2718314
+[20Dec2024 16:10:42.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
+[20Dec2024 16:10:42.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
