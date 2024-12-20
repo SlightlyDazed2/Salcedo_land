@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-20 02:43:11 +0000",
       "minecraft:taiga": "2024-12-17 23:25:48 +0000",
       "minecraft:deep_ocean": "2024-12-18 21:45:41 +0000",
       "minecraft:stony_peaks": "2024-12-19 23:13:44 +0000",
@@ -2217,6 +2218,7 @@
       "towering_cliffs": "2024-12-19 01:24:48 +0000",
       "infernal_holt": "2024-12-19 03:29:49 +0000",
       "temperate_grove": "2024-12-19 02:45:01 +0000",
+      "pine_slopes": "2024-12-20 02:44:04 +0000",
       "prairie": "2024-12-19 22:56:07 +0000"
     },
     "done": false
@@ -2235,6 +2237,7 @@
       "magnolia_highlands": "2024-12-19 23:04:35 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000",
       "temperate_grove": "2024-12-19 02:45:01 +0000",
+      "pine_slopes": "2024-12-20 02:44:04 +0000",
       "prairie": "2024-12-19 22:56:07 +0000"
     },
     "done": false
@@ -4232,213 +4235,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2024-12-19 22:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-12-19 22:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2024-12-19 22:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2024-12-19 23:11:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-19 21:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2024-12-19 22:50:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-19 22:37:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2024-12-19 22:58:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_fence_gate": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_button": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cypress_shrub": {
-    "criteria": {
-      "has_cypress_sapling": "2024-12-19 21:06:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2024-12-19 20:54:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2024-12-19 22:27:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cypress_fence": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2024-12-19 22:58:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 22:53:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cypress_sign": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2024-12-19 22:38:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/willow_trapdoor": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
-    "criteria": {
-      "has_spruce_shrub": "2024-12-19 22:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-19 21:49:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-19 21:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-12-19 22:37:42 +0000"
     },
     "done": true
   },
@@ -4448,189 +4247,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sheep": {
-    "criteria": {
-      "has_white_wool": "2024-12-19 20:51:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-19 22:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:wolf": "2024-12-19 21:49:57 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2024-12-19 23:13:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2024-12-19 22:45:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
-    "criteria": {
-      "has_gray_wool": "2024-12-19 20:54:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 22:27:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
-    "criteria": {
-      "has_brown_wool": "2024-12-19 22:38:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2024-12-19 21:09:44 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cypress_fence_gate": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cypress_trapdoor": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-12-19 20:54:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_stairs": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-12-19 20:51:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-19 22:58:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2024-12-19 21:27:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_trapdoor": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-12-19 20:54:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cypress_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 21:05:48 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-12-19 21:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/willow_door": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_sign": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
-    "criteria": {
-      "has_willow_shrub": "2024-12-19 21:06:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cypress_branch_from_cypress_log": {
-    "criteria": {
-      "has_log": "2024-12-19 21:05:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cypress_slab": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2024-12-19 22:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-19 22:38:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2024-12-19 21:07:34 +0000"
     },
     "done": true
   },
@@ -4640,63 +4259,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2024-12-19 20:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-19 21:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-12-19 22:38:03 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_willow_planks": "2024-12-19 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-19 21:12:14 +0000"
-    },
-    "done": true
-  },
-  "endertrigon:recipes/tools/dragon_horn": {
-    "criteria": {
-      "has_goat_horn": "2024-12-19 22:50:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cypress_pressure_plate": {
-    "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_slab": {
-    "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 22:27:05 +0000"
     },
     "done": true
   },
@@ -4706,27 +4271,33 @@
     },
     "done": true
   },
-  "travelersbackpack:standard_from_custom": {
+  "regions_unexplored:recipes/decorations/willow_fence": {
     "criteria": {
-      "has_backpack": "2024-12-19 20:57:34 +0000"
+      "has_willow_planks": "2024-12-19 20:49:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
     "criteria": {
-      "has_black_wool": "2024-12-19 22:37:42 +0000"
+      "has_willow_planks": "2024-12-19 20:49:02 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_sign": {
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
     "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+      "has_willow_planks": "2024-12-19 20:49:02 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/maple_door": {
+  "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
-      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+      "has_white_wool": "2024-12-19 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-19 20:51:48 +0000"
     },
     "done": true
   },
@@ -4742,87 +4313,57 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cypress_door": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+      "has_white_wool": "2024-12-19 20:51:48 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_black_wool": "2024-12-19 22:37:42 +0000"
+      "has_gray_wool": "2024-12-19 20:54:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_helmet": {
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
-      "has_item": "2024-12-19 21:09:44 +0000"
+      "has_gray_wool": "2024-12-19 20:54:12 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/cypress_stairs": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+      "has_gray_wool": "2024-12-19 20:54:12 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/willow_fence": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_willow_planks": "2024-12-19 20:49:02 +0000"
+      "has_gray_wool": "2024-12-19 20:54:12 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_button": {
+  "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+      "has_standard": "2024-12-19 20:57:34 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cypress_button": {
+  "travelersbackpack:standard_from_custom": {
     "criteria": {
-      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+      "has_backpack": "2024-12-19 20:57:34 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+  "regions_unexplored:recipes/building_blocks/cypress_wood": {
     "criteria": {
-      "has_dragonscales_red": "2024-12-19 21:09:44 +0000"
+      "has_log": "2024-12-19 21:05:48 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/willow_shrub": {
+  "regions_unexplored:recipes/decorations/cypress_branch_from_cypress_log": {
     "criteria": {
-      "has_willow_sapling": "2024-12-19 21:11:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2024-12-19 21:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-19 23:01:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
-    "criteria": {
-      "has_pine_planks": "2024-12-19 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 22:48:12 +0000"
+      "has_log": "2024-12-19 21:05:48 +0000"
     },
     "done": true
   },
@@ -4832,51 +4373,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
     "criteria": {
-      "has_willow_planks": "2024-12-19 20:49:02 +0000"
+      "has_willow_shrub": "2024-12-19 21:06:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "regions_unexplored:recipes/decorations/cypress_shrub": {
     "criteria": {
-      "has_white_wool": "2024-12-19 20:51:48 +0000"
+      "has_cypress_sapling": "2024-12-19 21:06:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-19 22:50:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/red_maple_shrub": {
-    "criteria": {
-      "has_red_maple_sapling": "2024-12-19 22:27:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-19 23:09:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-19 22:49:57 +0000"
+      "has_brown_mushroom": "2024-12-19 21:07:06 +0000"
     },
     "done": true
   },
@@ -4886,9 +4397,357 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "mca:recipes/misc/family_tree": {
     "criteria": {
-      "has_gunpowder": "2024-12-19 22:58:55 +0000"
+      "has_item": "2024-12-19 21:07:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-19 21:07:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-19 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 21:12:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-19 21:27:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-19 21:27:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-19 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-19 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-19 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-19 21:49:57 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_trapdoor": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_cypress_planks": "2024-12-19 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-12-19 22:27:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 22:27:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 22:27:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2024-12-19 22:27:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2024-12-19 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-19 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-19 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-19 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-19 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-19 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-19 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2024-12-19 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-19 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-19 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2024-12-19 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-19 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-19 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-19 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2024-12-19 22:38:26 +0000"
     },
     "done": true
   },
@@ -4898,15 +4757,183 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/willow_slab": {
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
-      "has_willow_planks": "2024-12-19 20:49:02 +0000"
+      "has_log": "2024-12-19 22:45:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "has_item": "2024-12-19 21:27:20 +0000"
+      "coded_trigger": "2024-12-19 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-19 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-19 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_goat_horn": "2024-12-19 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 22:53:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-19 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-19 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-19 23:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-19 23:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2024-12-20 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 02:45:46 +0000"
     },
     "done": true
   },
