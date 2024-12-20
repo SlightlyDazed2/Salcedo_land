@@ -3431,6 +3431,7 @@
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
       "cold_river": "2024-12-19 17:38:27 +0000",
+      "pine_slopes": "2024-12-20 02:59:43 +0000",
       "old_growth_bayou": "2024-12-20 02:16:02 +0000",
       "spires": "2024-12-19 17:59:09 +0000",
       "icy_heights": "2024-12-19 18:01:17 +0000",
@@ -3456,6 +3457,7 @@
       "cold_boreal_taiga": "2024-12-19 16:34:43 +0000",
       "temperate_grove": "2024-12-19 16:23:56 +0000",
       "cold_river": "2024-12-19 17:38:27 +0000",
+      "pine_slopes": "2024-12-20 02:59:43 +0000",
       "old_growth_bayou": "2024-12-20 02:16:02 +0000",
       "spires": "2024-12-19 17:59:09 +0000",
       "icy_heights": "2024-12-19 18:01:17 +0000",
@@ -4719,9 +4721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
     },
     "done": true
   },
@@ -4737,15 +4751,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bat_smithing": {
     "criteria": {
       "has_bat": "2024-12-20 02:28:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
     },
     "done": true
   },
@@ -4758,6 +4802,24 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-20 03:05:23 +0000"
     },
     "done": true
   },

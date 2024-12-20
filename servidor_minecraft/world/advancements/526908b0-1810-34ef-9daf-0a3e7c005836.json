@@ -30,6 +30,7 @@
       "minecraft:deep_ocean": "2024-12-18 21:45:41 +0000",
       "minecraft:stony_peaks": "2024-12-19 23:13:44 +0000",
       "minecraft:river": "2024-12-19 22:39:45 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-20 03:06:42 +0000",
       "minecraft:stony_shore": "2024-12-17 23:41:37 +0000",
       "minecraft:dripstone_caves": "2024-12-20 02:52:21 +0000",
       "minecraft:grove": "2024-12-19 23:12:39 +0000",
@@ -366,6 +367,7 @@
       "minecraft:magma_cube": "2024-12-19 03:49:40 +0000",
       "minecraft:spider": "2024-12-19 01:12:07 +0000",
       "minecraft:piglin_brute": "2024-12-19 03:43:53 +0000",
+      "minecraft:creeper": "2024-12-20 03:08:53 +0000",
       "minecraft:zombified_piglin": "2024-12-19 03:44:45 +0000",
       "minecraft:wither_skeleton": "2024-12-19 02:51:41 +0000",
       "minecraft:piglin": "2024-12-19 03:41:34 +0000",
@@ -4950,9 +4952,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-20 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 03:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-20 03:06:49 +0000"
     },
     "done": true
   },
@@ -4974,6 +5000,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-20 03:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:58:26 +0000"
@@ -4989,6 +5021,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-20 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 03:03:15 +0000"
     },
     "done": true
   },
@@ -5028,6 +5066,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 03:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:58:26 +0000"
@@ -5061,6 +5105,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 03:03:15 +0000"
     },
     "done": true
   },
