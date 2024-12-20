@@ -5579,3 +5579,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 03:20:09.604] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
 [20Dec2024 03:20:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> vengan
 [20Dec2024 03:20:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> aca
+[20Dec2024 03:20:16.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> hice hueco
+[20Dec2024 03:20:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
+[20Dec2024 03:20:21.649] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:20:21.653] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:20:23.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> miope
+[20Dec2024 03:20:32.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> venga
+[20Dec2024 03:20:42.248] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:20:42.252] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:20:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> FUE LA COMIDA
+[20Dec2024 03:20:59.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> SON DOS
+[20Dec2024 03:21:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> suban
+[20Dec2024 03:21:04.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> aca
+[20Dec2024 03:21:16.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> VOY POR COMIDA PA TODOS Y VENGO
+[20Dec2024 03:21:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Slighttly_Dazed to -6799.500000, 64.000000, -349.500000]
+[20Dec2024 03:21:42.873] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[20Dec2024 03:21:42.876] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:21:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tomen
+[20Dec2024 03:21:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed suffocated in a wall
+[20Dec2024 03:21:48.335] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_20.12.2024-03.21.48.dat
+[20Dec2024 03:21:48.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-6800, y:70, z:-339, dim:minecraft:overworld]
+[20Dec2024 03:21:48.339] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[20Dec2024 03:22:16.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ontas
+[20Dec2024 03:22:18.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> lex
+[20Dec2024 03:22:46.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> hay q esperar q se despawneen
+[20Dec2024 03:22:51.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> sube
+[20Dec2024 03:23:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Slighttly_Dazed to -6799.500000, 90.000000, 330.500000]
+[20Dec2024 03:24:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> sigue ahi
+[20Dec2024 03:24:45.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:24:45.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:27:17.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ya salimos creo
+[20Dec2024 03:28:08.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> tamos en montaña p
+[20Dec2024 03:29:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> sali
+[20Dec2024 03:29:10.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Slighttly_Dazed to Milanesas2718314]
+[20Dec2024 03:29:26.739] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5623, y=-42, z=-10597} at Chest with:minecraft:chests/simple_dungeon
+[20Dec2024 03:29:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> fue el warden?
+[20Dec2024 03:29:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> si creo
+[20Dec2024 03:29:45.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:29:45.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:29:46.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> go casita
+[20Dec2024 03:29:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> si creo go nomas
+[20Dec2024 03:30:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tp otra vez?
+[20Dec2024 03:30:15.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> si
+[20Dec2024 03:30:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> estamos a diez mil bloquez
+[20Dec2024 03:30:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> si xd
