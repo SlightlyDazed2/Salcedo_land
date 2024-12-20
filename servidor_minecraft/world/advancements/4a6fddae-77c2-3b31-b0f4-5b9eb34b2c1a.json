@@ -32,6 +32,7 @@
       "minecraft:stony_shore": "2024-12-16 20:19:46 +0000",
       "minecraft:snowy_plains": "2024-12-19 18:04:13 +0000",
       "minecraft:snowy_taiga": "2024-12-19 16:37:31 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 02:50:07 +0000",
       "minecraft:grove": "2024-12-16 22:28:56 +0000",
       "minecraft:jagged_peaks": "2024-12-19 18:00:02 +0000",
       "minecraft:cold_ocean": "2024-12-16 22:21:32 +0000",
@@ -4718,6 +4719,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2024-12-20 02:05:20 +0000"
@@ -4727,6 +4740,24 @@
   "travelersbackpack:recipes/misc/bat_smithing": {
     "criteria": {
       "has_bat": "2024-12-20 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-20 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 02:46:14 +0000"
     },
     "done": true
   },
