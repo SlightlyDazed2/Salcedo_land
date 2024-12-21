@@ -758,6 +758,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-16 20:32:22 +0000",
       "minecraft:skeleton": "2024-12-16 20:18:13 +0000",
+      "minecraft:guardian": "2024-12-21 03:14:30 +0000",
       "minecraft:vindicator": "2024-12-16 20:28:07 +0000",
       "minecraft:spider": "2024-12-16 20:53:49 +0000",
       "minecraft:creeper": "2024-12-19 16:25:25 +0000",
@@ -4056,6 +4057,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2024-12-21 03:38:20 +0000",
+      "willow_log": "2024-12-21 03:37:26 +0000",
       "larch_log": "2024-12-19 17:27:23 +0000",
       "pine_log": "2024-12-19 00:26:05 +0000",
       "maple_log": "2024-12-19 18:00:45 +0000"
@@ -5466,9 +5469,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 03:14:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_deepslate": "2024-12-21 03:09:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_hanging_sign": {
+    "criteria": {
+      "has_stripped_magnolia_log": "2024-12-21 03:38:22 +0000"
     },
     "done": true
   },
@@ -5505,6 +5520,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 02:05:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 03:38:20 +0000"
     },
     "done": true
   },
@@ -5595,6 +5616,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-21 03:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-21 03:21:38 +0000"
     },
     "done": true
   },
@@ -5718,6 +5745,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-21 03:21:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 03:38:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-21 02:05:47 +0000"
@@ -5814,6 +5853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-21 03:21:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-21 02:05:47 +0000"
@@ -5832,9 +5877,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-21 03:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 03:14:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-21 03:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-21 03:14:30 +0000"
     },
     "done": true
   },
@@ -5880,6 +5943,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2024-12-21 03:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-21 02:38:52 +0000"
@@ -5898,15 +5967,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 03:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-21 02:38:52 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-21 03:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-21 02:05:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 03:38:22 +0000"
     },
     "done": true
   },
@@ -5925,6 +6012,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-21 02:05:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_sapling": "2024-12-21 03:38:27 +0000"
     },
     "done": true
   },
@@ -5997,6 +6090,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2024-12-21 03:07:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2024-12-21 03:38:20 +0000"
     },
     "done": true
   },
