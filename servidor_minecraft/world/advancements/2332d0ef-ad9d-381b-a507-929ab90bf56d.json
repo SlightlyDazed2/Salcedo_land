@@ -3984,10 +3984,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 02:31:05 +0000",
       "bayou": "2024-12-18 05:26:46 +0000",
       "prismachasm": "2024-12-18 05:25:22 +0000",
       "willow_forest": "2024-12-18 04:03:54 +0000",
       "rocky_meadow": "2024-12-18 04:05:19 +0000",
+      "mycotoxic_undergrowth": "2024-12-21 02:30:22 +0000",
       "flower_fields": "2024-12-18 05:34:45 +0000",
       "towering_cliffs": "2024-12-18 04:06:56 +0000",
       "old_growth_bayou": "2024-12-18 05:43:37 +0000",
@@ -3997,6 +3999,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 02:31:05 +0000",
       "bayou": "2024-12-18 05:26:46 +0000",
       "willow_forest": "2024-12-18 04:03:54 +0000",
       "rocky_meadow": "2024-12-18 04:05:19 +0000",
@@ -4376,6 +4379,24 @@
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2024-12-19 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-12-21 02:30:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-21 02:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-21 02:30:21 +0000"
     },
     "done": true
   },

@@ -3551,6 +3551,7 @@
       "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
+      "gravel_beach": "2024-12-21 02:28:54 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
     "done": false
@@ -3575,6 +3576,7 @@
       "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
+      "gravel_beach": "2024-12-21 02:28:54 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
     "done": false
@@ -5638,6 +5640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-21 01:54:38 +0000"
@@ -5716,6 +5724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse_smithing": {
     "criteria": {
       "has_horse": "2024-12-21 02:12:37 +0000"
@@ -5728,9 +5742,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2024-12-21 02:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
@@ -5740,9 +5772,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2024-12-21 01:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-21 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-21 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
@@ -5764,9 +5826,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-21 02:17:04 +0000"
     },
     "done": true
   },
