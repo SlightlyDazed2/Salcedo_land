@@ -3527,9 +3527,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 01:49:30 +0000",
       "shrubland": "2024-12-18 05:19:08 +0000",
       "redstone_abyss": "2024-12-19 04:00:32 +0000",
       "bayou": "2024-12-19 19:12:10 +0000",
+      "autumnal_maple_forest": "2024-12-21 01:48:58 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
       "rocky_meadow": "2024-12-18 04:05:22 +0000",
       "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000",
@@ -3545,6 +3547,7 @@
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
       "infernal_holt": "2024-12-19 03:30:10 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
+      "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
@@ -3553,8 +3556,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 01:49:30 +0000",
       "shrubland": "2024-12-18 05:19:08 +0000",
       "bayou": "2024-12-19 19:12:10 +0000",
+      "autumnal_maple_forest": "2024-12-21 01:48:58 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
       "rocky_meadow": "2024-12-18 04:05:22 +0000",
       "ochard": "2024-12-18 05:19:47 +0000",
@@ -3566,6 +3571,7 @@
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
+      "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
@@ -3828,7 +3834,8 @@
     "criteria": {
       "willow_log": "2024-12-19 02:00:08 +0000",
       "mauve_log": "2024-12-19 19:09:38 +0000",
-      "pine_log": "2024-12-18 06:19:31 +0000"
+      "pine_log": "2024-12-18 06:19:31 +0000",
+      "silver_birch_log": "2024-12-21 01:50:10 +0000"
     },
     "done": false
   },
@@ -5621,6 +5628,102 @@
   "shieldexp:get_diamond_shield": {
     "criteria": {
       "diamond_shield": "2024-12-20 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-21 01:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2024-12-21 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 01:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
     },
     "done": true
   },

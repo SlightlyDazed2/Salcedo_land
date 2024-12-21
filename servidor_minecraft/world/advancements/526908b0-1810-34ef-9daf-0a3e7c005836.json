@@ -33,12 +33,14 @@
       "minecraft:river": "2024-12-19 22:39:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-20 03:06:42 +0000",
       "minecraft:stony_shore": "2024-12-17 23:41:37 +0000",
+      "minecraft:snowy_plains": "2024-12-20 23:36:40 +0000",
       "minecraft:dripstone_caves": "2024-12-20 02:52:21 +0000",
       "minecraft:grove": "2024-12-19 23:12:39 +0000",
       "minecraft:jagged_peaks": "2024-12-19 23:13:25 +0000",
       "minecraft:cold_ocean": "2024-12-17 23:43:24 +0000",
       "minecraft:forest": "2024-12-17 23:41:12 +0000",
       "minecraft:deep_cold_ocean": "2024-12-18 21:49:38 +0000",
+      "minecraft:ice_spikes": "2024-12-20 23:36:58 +0000",
       "minecraft:frozen_ocean": "2024-12-20 23:16:46 +0000",
       "minecraft:ocean": "2024-12-18 21:45:58 +0000",
       "minecraft:snowy_beach": "2024-12-20 23:09:49 +0000",
@@ -876,6 +878,7 @@
       "rotten_flesh": "2024-12-19 01:12:47 +0000",
       "golden_carrot": "2024-12-19 22:50:23 +0000",
       "cooked_rabbit": "2024-12-20 23:11:49 +0000",
+      "cooked_salmon": "2024-12-20 23:34:09 +0000",
       "carrot": "2024-12-18 22:14:08 +0000"
     },
     "done": false
@@ -2222,6 +2225,7 @@
       "autumnal_maple_forest": "2024-12-20 22:33:13 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "frozen_tundra": "2024-12-20 22:41:44 +0000",
+      "poppy_fields": "2024-12-20 23:38:06 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
       "mycotoxic_undergrowth": "2024-12-19 02:50:21 +0000",
       "flower_fields": "2024-12-19 21:40:43 +0000",
@@ -2237,7 +2241,8 @@
       "temperate_grove": "2024-12-19 02:45:01 +0000",
       "cold_river": "2024-12-20 22:36:51 +0000",
       "pine_slopes": "2024-12-20 02:44:04 +0000",
-      "prairie": "2024-12-19 22:56:07 +0000"
+      "prairie": "2024-12-19 22:56:07 +0000",
+      "gravel_beach": "2024-12-20 23:38:29 +0000"
     },
     "done": false
   },
@@ -2250,6 +2255,7 @@
       "autumnal_maple_forest": "2024-12-20 22:33:13 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "frozen_tundra": "2024-12-20 22:41:44 +0000",
+      "poppy_fields": "2024-12-20 23:38:06 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
       "flower_fields": "2024-12-19 21:40:43 +0000",
       "highland_fields": "2024-12-19 22:58:17 +0000",
@@ -2261,7 +2267,8 @@
       "temperate_grove": "2024-12-19 02:45:01 +0000",
       "cold_river": "2024-12-20 22:36:51 +0000",
       "pine_slopes": "2024-12-20 02:44:04 +0000",
-      "prairie": "2024-12-19 22:56:07 +0000"
+      "prairie": "2024-12-19 22:56:07 +0000",
+      "gravel_beach": "2024-12-20 23:38:29 +0000"
     },
     "done": false
   },
@@ -5262,6 +5269,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_dye_from_salmon_poppy_bush": {
+    "criteria": {
+      "has_salmon_poppy_bush": "2024-12-20 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 23:47:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-20 22:39:07 +0000"
@@ -5289,6 +5308,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-20 22:42:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 23:27:41 +0000"
     },
     "done": true
   },
@@ -5406,6 +5431,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 23:47:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2024-12-20 23:33:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2024-12-20 23:00:48 +0000"
@@ -5427,6 +5464,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2024-12-20 22:42:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-20 23:27:41 +0000"
     },
     "done": true
   },
@@ -5484,6 +5527,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 23:27:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2024-12-20 23:00:48 +0000"
@@ -5532,6 +5581,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 23:27:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 23:27:41 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2024-12-20 22:40:40 +0000"
@@ -5541,6 +5602,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2024-12-20 23:30:47 +0000"
     },
     "done": true
   },
@@ -5613,6 +5680,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 23:13:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 23:47:29 +0000"
     },
     "done": true
   },
