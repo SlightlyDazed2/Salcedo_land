@@ -292,3 +292,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Dec2024 02:00:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was killed by magic
 [21Dec2024 02:00:13.251] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_21.12.2024-02.00.13.dat
 [21Dec2024 02:00:16.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> XD
+[21Dec2024 02:02:43.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> TP A la house
+[21Dec2024 02:02:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has completed the challenge [Great View From Up Here]
+[21Dec2024 02:02:56.340] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
+[21Dec2024 02:02:56.344] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[21Dec2024 02:03:18.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Sargent the Soaked
+[21Dec2024 02:03:31.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Local Brewery]
+[21Dec2024 02:03:54.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/9391, l='ServerLevel[world]', x=-7388.91, y=76.00, z=1107.13] died: Sargent the Soaked was shot by Slighttly_Dazed
+[21Dec2024 02:05:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Milanesas2718314 to -6763.500000, 74.000000, 370.500000]
+[21Dec2024 02:07:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ya vuenes?
+[21Dec2024 02:07:17.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> toy calentando la comida
+[21Dec2024 02:08:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[21Dec2024 02:08:54.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danica'/10209, l='ServerLevel[world]', x=-6726.90, y=81.00, z=395.48] died, message: 'Danica was slain by Zombie'
+[21Dec2024 02:08:54.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Danica'/10209, l='ServerLevel[world]', x=-6726.90, y=81.00, z=395.48] died: Danica was slain by Zombie
+[21Dec2024 02:11:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> ya donde es
+[21Dec2024 02:11:47.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[21Dec2024 02:11:59.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> t tepeo
+[21Dec2024 02:12:02.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> ya
+[21Dec2024 02:12:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 2 entities to Slighttly_Dazed]
+[21Dec2024 02:13:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ontas¿
+[21Dec2024 02:13:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> taba yendo x agua
+[21Dec2024 02:13:53.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tengo
+[21Dec2024 02:13:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ven noma
+[21Dec2024 02:17:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Magic Writing]
