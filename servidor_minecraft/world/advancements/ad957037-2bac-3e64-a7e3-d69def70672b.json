@@ -23,6 +23,7 @@
       "minecraft:mushroom_fields": "2024-12-17 04:30:54 +0000",
       "minecraft:taiga": "2024-12-17 21:06:34 +0000",
       "minecraft:deep_ocean": "2024-12-17 04:38:49 +0000",
+      "minecraft:frozen_river": "2024-12-21 03:48:42 +0000",
       "minecraft:cherry_grove": "2024-12-16 20:11:43 +0000",
       "minecraft:sunflower_plains": "2024-12-17 22:27:45 +0000",
       "minecraft:birch_forest": "2024-12-17 21:00:38 +0000",
@@ -42,8 +43,10 @@
       "minecraft:lush_caves": "2024-12-17 22:31:51 +0000",
       "minecraft:deep_cold_ocean": "2024-12-21 03:14:23 +0000",
       "minecraft:frozen_ocean": "2024-12-21 03:29:25 +0000",
+      "minecraft:windswept_forest": "2024-12-21 03:47:56 +0000",
       "minecraft:ocean": "2024-12-16 20:41:45 +0000",
       "minecraft:jungle": "2024-12-18 05:28:43 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-21 03:48:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-17 22:47:37 +0000",
       "minecraft:frozen_peaks": "2024-12-17 02:25:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-17 02:10:00 +0000",
@@ -3534,6 +3537,7 @@
       "silver_birch_forest": "2024-12-21 01:49:30 +0000",
       "shrubland": "2024-12-18 05:19:08 +0000",
       "redstone_abyss": "2024-12-19 04:00:32 +0000",
+      "pine_taiga": "2024-12-21 03:42:48 +0000",
       "bayou": "2024-12-19 19:12:10 +0000",
       "autumnal_maple_forest": "2024-12-21 01:48:58 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
@@ -3546,6 +3550,7 @@
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
+      "boreal_forest": "2024-12-21 03:42:49 +0000",
       "glistering_meadow": "2024-12-19 04:00:24 +0000",
       "blackstone_basin": "2024-12-19 03:22:50 +0000",
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
@@ -3554,6 +3559,7 @@
       "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
+      "spires": "2024-12-21 03:49:05 +0000",
       "gravel_beach": "2024-12-21 02:28:54 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
@@ -3563,6 +3569,7 @@
     "criteria": {
       "silver_birch_forest": "2024-12-21 01:49:30 +0000",
       "shrubland": "2024-12-18 05:19:08 +0000",
+      "pine_taiga": "2024-12-21 03:42:48 +0000",
       "bayou": "2024-12-19 19:12:10 +0000",
       "autumnal_maple_forest": "2024-12-21 01:48:58 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
@@ -3574,11 +3581,13 @@
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
+      "boreal_forest": "2024-12-21 03:42:49 +0000",
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
       "cold_river": "2024-12-21 01:51:34 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "old_growth_bayou": "2024-12-19 19:11:08 +0000",
+      "spires": "2024-12-21 03:49:05 +0000",
       "gravel_beach": "2024-12-21 02:28:54 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
     },
@@ -5853,6 +5862,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-21 03:50:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2024-12-21 02:41:38 +0000"
@@ -5976,6 +5991,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-21 04:01:00 +0000"
     },
     "done": true
   },
