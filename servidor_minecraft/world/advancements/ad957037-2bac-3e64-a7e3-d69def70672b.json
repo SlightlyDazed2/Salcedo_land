@@ -5634,15 +5634,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
     "criteria": {
-      "has_planks": "2024-12-21 01:54:38 +0000"
+      "has_log": "2024-12-21 01:50:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
     "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
+      "has_log": "2024-12-21 01:50:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2024-12-21 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
     },
     "done": true
   },
@@ -5658,27 +5670,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-21 01:57:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
-    "criteria": {
-      "has_tassel": "2024-12-21 01:56:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-21 01:54:38 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
     },
     "done": true
   },
@@ -5694,21 +5688,27 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
-    "criteria": {
-      "has_log": "2024-12-21 01:50:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 01:54:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_black_wool": "2024-12-21 01:57:04 +0000"
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
     },
     "done": true
   },
@@ -5718,51 +5718,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
-    "criteria": {
-      "has_silver_birch_sapling": "2024-12-21 01:50:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse_smithing": {
-    "criteria": {
-      "has_horse": "2024-12-21 02:12:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
+      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
     },
     "done": true
   },
-  "minecraft:end/levitate": {
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
     "criteria": {
-      "levitated": "2024-12-21 02:02:51 +0000"
+      "has_tassel": "2024-12-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
+      "has_black_wool": "2024-12-21 01:57:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
+      "has_black_wool": "2024-12-21 01:57:04 +0000"
     },
     "done": true
   },
@@ -5772,21 +5754,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2024-12-21 01:57:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:end/levitate": {
     "criteria": {
-      "has_andesite": "2024-12-21 02:21:19 +0000"
+      "levitated": "2024-12-21 02:02:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-21 02:17:04 +0000"
     },
     "done": true
   },
@@ -5802,27 +5790,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "has_planks": "2024-12-21 01:54:38 +0000"
+      "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_log": "2024-12-21 01:50:10 +0000"
+      "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "has_light_gray_wool": "2024-12-21 01:56:13 +0000"
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-21 02:21:19 +0000"
     },
     "done": true
   },
@@ -5838,15 +5850,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_planks": "2024-12-21 01:54:38 +0000"
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_magic_scroll": "2024-12-21 02:17:04 +0000"
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 02:34:59 +0000"
     },
     "done": true
   },

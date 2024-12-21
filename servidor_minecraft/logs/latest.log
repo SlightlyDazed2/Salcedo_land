@@ -326,3 +326,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Dec2024 02:30:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [We Need to Go Deeper]
 [21Dec2024 02:31:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 3 entities to Slighttly_Dazed]
 [21Dec2024 02:31:09.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> oe
+[21Dec2024 02:32:03.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Timed out
+[21Dec2024 02:32:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[21Dec2024 02:32:03.773] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d35c18b[id=<null>,name=Slighttly_Dazed,properties={},legacy=false] (/127.225.50.35:33013) lost connection: Disconnected
+[21Dec2024 02:32:09.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:34149] logged in with entity id 17195 at (-7338.699999988079, 18.0, 1125.4745842891334)
+[21Dec2024 02:32:09.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[21Dec2024 02:32:09.791] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[21Dec2024 02:33:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> vengan
+[21Dec2024 02:35:32.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/9525, l='ServerLevel[world]', x=-7312.70, y=6.00, z=1079.44] died: Agizahr the Archmage was struck by lightning whilst fighting Milanesas2718314
+[21Dec2024 02:35:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> q fue
+[21Dec2024 02:35:57.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> un bossw
+[21Dec2024 02:38:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> gg?
+[21Dec2024 02:38:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> debe habe rmas
+[21Dec2024 02:38:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> donde estab habia mas
+[21Dec2024 02:38:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
+[21Dec2024 02:38:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> go p
+[21Dec2024 02:38:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ontas axel
+[21Dec2024 02:38:54.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> ontan
+[21Dec2024 02:39:56.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> voy po r un dragon subtrerrano
